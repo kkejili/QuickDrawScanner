@@ -1,0 +1,15 @@
+star
+square
+face
+moon
+butterfly
+cell phone
+cup
+pants
+clock
+triangle
+basketball
+lollipop
+rainbow
+fish
+fork
